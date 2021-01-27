@@ -27,22 +27,22 @@ This was an university project where I designed and implemented a relational dat
 The project consisted on five parts:
 
    **First** part:
-        Identifying the entities, and developing the business rules acoding to what was required from the case study. 
+        Identifying the entities, and developing the business rules according to what was required from the case study. 
         
-   The following image as an small example of the case study: 
+   The following image as a small example of the case study: 
    ![](images/case%20study%20example%20.png) 
 
    Syntax used for the bussiness rules:  Each/A/An ENTITY_1 May/Must Relationship_Verb_Phrase number ENTITY_2 
-   Any assumptios where cleary stated to make sure that the requirements were meet.
+   Any assumptios were stated to make sure that the requirements were meet respectively. 
    ![](/images/business%20rule%20example.png)
    
    Overall, these were the identified entities:
    ![](/images/entities%20example.png)
    
    **Second** part:
-    Based on the business rules, a logical ERD was constructed using Visual Paradigm. Here primary & foreign keys, 
-    disjoint & overlapping relatioships, cardinality & participatio, and assumpitions were included. All the M:N relationsips 
-    resolved by creating a briding entity, and Crow’s Foot notation used to show connectivity. More details can be found in the image below:
+    Based on the business rules, a logical ERD was constructed using Visual Paradigm. Here, the primary & foreign keys, 
+    the disjoint & overlapping relatioships, the cardinality & participation, and any assumpitions were included. All the M:N relationsips 
+    resolved by creating multiple briding entities, and Crow’s Foot notation used to show connectivity. More details can be found on the image below:
     
    ![](/images/ER4.jpg)
  
