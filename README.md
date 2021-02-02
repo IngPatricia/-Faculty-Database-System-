@@ -75,9 +75,9 @@ The project consisted on five parts:
 
    Using new technologies comes with a level of challenge, specially if it is the first time -which was my case. 
    Inserting the data on the right place was troublesome at times given that the correct position from each attribute needed to be kept in mind.
-   Creating a file to [drop](https://github.com/IngPatricia/Faculty-Database-System/blob/main/code/dropTables.sql) the table was very useful as sometimes the tables 
-   were not created properly or when readjustments needed to be done so that the ERD diagram got followed. The queries were challenging to some extend given that particular 
-   sintax needs to be followed when using FROM, JOIN, ORDER BY commands. 
+   Creating a file to [drop](https://github.com/IngPatricia/Faculty-Database-System/blob/main/code/dropTables.sql) the tables was very useful. Sometimes the tables 
+   were not created properly or re-adjustments needed to be done according to the ERD. The queries were challenging to some extend as the 
+   sintax has to be followed when using FROM, JOIN, ORDER BY commands. 
   
 ## Conclusion 
 Although the tools used were completly new to me, the language and its sintax too, I found this to be interesting and very useful to learn. 
