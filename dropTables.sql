@@ -1,0 +1,23 @@
+drop table ASSESSMENT cascade constraints;
+drop table COURSE cascade constraints;
+drop table COURSE_PAPER cascade constraints;
+drop table DEPARTMENT cascade constraints;
+drop table GRADE cascade constraints;
+drop table HEAD_OF_DEPARTMENT cascade constraints;
+drop table NEXT_OF_KIN cascade constraints;
+drop table PAPER cascade constraints;
+drop table PAPER_STUDENT cascade constraints;
+drop table PERSON cascade constraints;
+drop table QUALIFICATION cascade constraints;
+drop table "RESOURCE" cascade constraints;
+drop table RESOURCE_PAPER cascade constraints;
+drop table STAFF cascade constraints;
+drop table STAFF_QUALIFICATION cascade constraints;
+drop table STUDENT cascade constraints;
+drop table TEACHING cascade constraints;
+
+DROP TYPE STUDENT_TYPE;
+DROP TYPE HEAD_OF_DEPARTMENT_TYPE;
+DROP TYPE NEXT_OF_KIN_TYPE;
+DROP TYPE STAFF_TYPE;
+DROP TYPE PERSON_TYPE;
